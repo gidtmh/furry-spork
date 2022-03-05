@@ -1,3 +1,7 @@
+
+Practise code for JWT Authentication
+
+
 # Angular12JwtAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
